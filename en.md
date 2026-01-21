@@ -5,6 +5,9 @@
 ![Output](https://img.shields.io/badge/Output-Structured_JSON-success)
 ![Focus](https://img.shields.io/badge/Focus-Midjourney_%7C_SD_%7C_Gen_AI-ff69b4)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MoyuAI?style=social)](https://x.com/MoyuAI)
+[![Chinese Version](https://img.shields.io/badge/Docs-中文版本-informational)](https://github.com/ai919/Prompt-Generator-System)
+
+
 
 > **"In the Wild West of AIGC, ideas are cheap; execution is king."**
 
