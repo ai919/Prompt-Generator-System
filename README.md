@@ -184,6 +184,8 @@ You stop.
 
 * 获取：GEM 将返回一个 JSON 代码块。
 
+## [![Connect with Author @MoyuAI](https://img.shields.io/badge/Connect_with_Author-@MoyuAI-black?logo=x&style=flat-square)](https://x.com/MoyuAI)
+
 * 执行：复制 JSON 中的 final_image_prompt 字段内容，放入绘图软件。
 
 ## **停止与 AI 搏斗。让 GEM 为你绘制蓝图，你只需按下快门。**
